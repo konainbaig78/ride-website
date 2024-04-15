@@ -1,0 +1,67 @@
+.icon{
+    width: 152px;
+height: 51px;
+}
+.bg {
+    background: #F9F9F9;
+
+}
+.h1-a{
+   
+font-size: 60.73px;
+font-weight: 800;
+line-height: 65.91px;
+text-align: left;
+margin-bottom: 30px;
+
+}
+.p-a{
+    color:  #9E9DA2;
+  
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+text-align: left;
+margin-bottom: 30px;
+
+
+}
+.btn-ab{
+    width: 260px;
+height: 66.77px;
+background: black;
+color: white;
+font-weight: 500;
+border-radius: 5px;
+
+
+}
+.sec-a{
+    padding: 40px;
+}
+.fs-m{
+    
+font-size: 15px;
+font-weight: 500;
+line-height: 20.82px;
+text-align: left;
+color: black;
+}
+.btn-a{
+    width: 182px;
+height: 50px;
+color: white;
+border-radius: 5.95px;
+font-size: 15px;
+
+}
+.black{
+    color: black;
+}
+.c1{
+    background: #75BF7A;
+
+}
+.nav-a{
+    padding: 35px 30px 20px 30px;
+}
