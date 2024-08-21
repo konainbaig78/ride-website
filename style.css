@@ -65,3 +65,29 @@ font-size: 15px;
 .nav-a{
     padding: 35px 30px 20px 30px;
 }
+
+#grp-3{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#grp-3>div{
+    height: 166px;
+    width: 1280px;
+    background: #75BF7A;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+#grp-3>div>p{
+   font-weight: 600; 
+line-height:
+28px;
+color: white;
+}
+@media screen and (max-width:480px){
+    .sec-a{
+        flex-direction: column-reverse !important;
+    }
+}
